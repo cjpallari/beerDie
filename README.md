@@ -1,1 +1,1 @@
-# Beer Die Twitch overlay
+# Beer Die Twitch overlay - users type !dieup in chat, resulting in a falling die. If the die lands in the cup png located at the bottom of the screen, that persons username will appear on the screen.
